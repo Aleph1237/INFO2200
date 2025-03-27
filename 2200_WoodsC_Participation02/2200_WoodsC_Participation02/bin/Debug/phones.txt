@@ -1,0 +1,5 @@
+Manufacturer,Model,Display Size,Storage,Price
+Apple,iPhone X,5.8",256GB,1200
+OnePlus,OnePlus 5,6.0",256GB,700
+Samsung,Galaxy 15,5.75",128GB,550
+Google,Pixel 7,7.0",128GB,850

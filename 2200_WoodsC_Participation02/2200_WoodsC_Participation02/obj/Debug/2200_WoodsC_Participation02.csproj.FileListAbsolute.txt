@@ -1,0 +1,17 @@
+C:\Users\10824194\OneDrive - Utah Valley University\INFO 2200\Participations\P2\2200_WoodsC_Participation02\2200_WoodsC_Participation02\bin\Debug\2200_WoodsC_Participation02.exe.config
+C:\Users\10824194\OneDrive - Utah Valley University\INFO 2200\Participations\P2\2200_WoodsC_Participation02\2200_WoodsC_Participation02\bin\Debug\2200_WoodsC_Participation02.exe
+C:\Users\10824194\OneDrive - Utah Valley University\INFO 2200\Participations\P2\2200_WoodsC_Participation02\2200_WoodsC_Participation02\bin\Debug\2200_WoodsC_Participation02.pdb
+C:\Users\10824194\OneDrive - Utah Valley University\INFO 2200\Participations\P2\2200_WoodsC_Participation02\2200_WoodsC_Participation02\obj\Debug\2200_WoodsC_Participation02.csproj.AssemblyReference.cache
+C:\Users\10824194\OneDrive - Utah Valley University\INFO 2200\Participations\P2\2200_WoodsC_Participation02\2200_WoodsC_Participation02\obj\Debug\MainWindow.g.cs
+C:\Users\10824194\OneDrive - Utah Valley University\INFO 2200\Participations\P2\2200_WoodsC_Participation02\2200_WoodsC_Participation02\obj\Debug\PhoneDetailsWindow.g.cs
+C:\Users\10824194\OneDrive - Utah Valley University\INFO 2200\Participations\P2\2200_WoodsC_Participation02\2200_WoodsC_Participation02\obj\Debug\App.g.cs
+C:\Users\10824194\OneDrive - Utah Valley University\INFO 2200\Participations\P2\2200_WoodsC_Participation02\2200_WoodsC_Participation02\obj\Debug\2200_WoodsC_Participation02_MarkupCompile.cache
+C:\Users\10824194\OneDrive - Utah Valley University\INFO 2200\Participations\P2\2200_WoodsC_Participation02\2200_WoodsC_Participation02\obj\Debug\2200_WoodsC_Participation02_MarkupCompile.lref
+C:\Users\10824194\OneDrive - Utah Valley University\INFO 2200\Participations\P2\2200_WoodsC_Participation02\2200_WoodsC_Participation02\obj\Debug\MainWindow.baml
+C:\Users\10824194\OneDrive - Utah Valley University\INFO 2200\Participations\P2\2200_WoodsC_Participation02\2200_WoodsC_Participation02\obj\Debug\PhoneDetailsWindow.baml
+C:\Users\10824194\OneDrive - Utah Valley University\INFO 2200\Participations\P2\2200_WoodsC_Participation02\2200_WoodsC_Participation02\obj\Debug\2200_WoodsC_Participation02.g.resources
+C:\Users\10824194\OneDrive - Utah Valley University\INFO 2200\Participations\P2\2200_WoodsC_Participation02\2200_WoodsC_Participation02\obj\Debug\_2200_WoodsC_Participation02.Properties.Resources.resources
+C:\Users\10824194\OneDrive - Utah Valley University\INFO 2200\Participations\P2\2200_WoodsC_Participation02\2200_WoodsC_Participation02\obj\Debug\2200_WoodsC_Participation02.csproj.GenerateResource.cache
+C:\Users\10824194\OneDrive - Utah Valley University\INFO 2200\Participations\P2\2200_WoodsC_Participation02\2200_WoodsC_Participation02\obj\Debug\2200_WoodsC_Participation02.csproj.CoreCompileInputs.cache
+C:\Users\10824194\OneDrive - Utah Valley University\INFO 2200\Participations\P2\2200_WoodsC_Participation02\2200_WoodsC_Participation02\obj\Debug\2200_WoodsC_Participation02.exe
+C:\Users\10824194\OneDrive - Utah Valley University\INFO 2200\Participations\P2\2200_WoodsC_Participation02\2200_WoodsC_Participation02\obj\Debug\2200_WoodsC_Participation02.pdb

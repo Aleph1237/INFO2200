@@ -1,0 +1,121 @@
+2200 M02 Participation Code
+
+------------------------
+PhoneDetailsWindows.xaml
+------------------------
+
+<Window x:Class="_2200_Participation02_Completed.PhoneDetailsWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_2200_Participation02_Completed"
+        mc:Ignorable="d"
+        Title="PhoneDetailsWindow" Height="450" Width="800">    
+    <Grid>
+        <GroupBox Margin="30,30,30,100"
+                  Header="Phone Details">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+                <Label 
+                    Content="Make: "
+                    HorizontalAlignment="Right"
+                    VerticalAlignment="Center"
+                    FontSize="30"
+                    Grid.Row="0"
+                    />
+                <Label
+                    Content="Model: "
+                    HorizontalAlignment="Right"
+                    VerticalAlignment="Center"
+                    FontSize="30"
+                    Grid.Row="1"
+                    />
+                <Label
+                    Content="Display: "
+                    HorizontalAlignment="Right"
+                    VerticalAlignment="Center"
+                    FontSize="30"
+                    Grid.Row="2"
+                    />
+                <Label
+                    Content="Storage: "
+                    HorizontalAlignment="Right"
+                    VerticalAlignment="Center"
+                    FontSize="30"
+                    Grid.Row="3"
+                    />
+                <Label
+                    Content="Price: "
+                    HorizontalAlignment="Right"
+                    VerticalAlignment="Center"
+                    FontSize="30"
+                    Grid.Row="4"
+                    />
+                <Label
+                    x:Name="lblMake"
+                    Content="Results..."
+                    HorizontalAlignment="Left"
+                    VerticalAlignment="Center"
+                    FontSize="30"
+                    Grid.Column="1"
+                    Grid.Row="0"
+                    />
+                <Label
+                    x:Name="lblModel"
+                    Content="Results..."
+                    HorizontalAlignment="Left"
+                    VerticalAlignment="Center"
+                    FontSize="30"
+                    Grid.Column="1"
+                    Grid.Row="1"
+                    />
+                <Label
+                    x:Name="lblDisplay"
+                    Content="Results..."
+                    HorizontalAlignment="Left"
+                    VerticalAlignment="Center"
+                    FontSize="30"
+                    Grid.Column="1"
+                    Grid.Row="2"
+                    />
+                <Label
+                    x:Name="lblStorage"
+                    Content="Results..."
+                    HorizontalAlignment="Left"
+                    VerticalAlignment="Center"
+                    FontSize="30"
+                    Grid.Column="1"
+                    Grid.Row="3"
+                    />
+                <Label
+                    x:Name="lblPrice"
+                    Content="Results..."
+                    HorizontalAlignment="Left"
+                    VerticalAlignment="Center"
+                    FontSize="30"
+                    Grid.Column="1"
+                    Grid.Row="4"
+                    />                
+            </Grid>            
+        </GroupBox>
+        <Button 
+            x:Name="btnClose"
+            Content="Close"
+            VerticalAlignment="Bottom"
+            Margin="30"
+            Padding="0,20"           
+            Click="btnClose_Click"
+            />
+    </Grid>
+</Window>
