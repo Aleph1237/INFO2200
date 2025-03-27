@@ -1,0 +1,25 @@
+﻿<Window x:Class="_2200_WoodsC_Assignment02.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_2200_SharpJ_Assignment02"
+        mc:Ignorable="d"
+        Title="Nutrition Tracker" Height="300" Width="490">
+    <Grid>
+        <GroupBox
+            Height="150"
+            Width="440"
+            Header="Select a food to view">
+            <ComboBox
+                x:Name="cbFoods"
+                Width="420"
+                Height="50"
+                FontSize="30"
+                SelectionChanged="cbFoods_SelectionChanged"
+            />
+
+        </GroupBox>
+        
+    </Grid>
+</Window>

@@ -1,0 +1,5 @@
+C:\Users\corbi\OneDrive - Utah Valley University\INFO 2200\Assignments\2200_SharpJ_Assignment02\2200_SharpJ_Assignment02\obj\Debug\2200_SharpJ_Assignment02.csproj.AssemblyReference.cache
+C:\Users\corbi\OneDrive - Utah Valley University\INFO 2200\Assignments\2200_SharpJ_Assignment02\2200_SharpJ_Assignment02\obj\Debug\MainWindow.g.cs
+C:\Users\corbi\OneDrive - Utah Valley University\INFO 2200\Assignments\2200_SharpJ_Assignment02\2200_SharpJ_Assignment02\obj\Debug\App.g.cs
+C:\Users\corbi\OneDrive - Utah Valley University\INFO 2200\Assignments\2200_SharpJ_Assignment02\2200_SharpJ_Assignment02\obj\Debug\2200_SharpJ_Assignment02_MarkupCompile.cache
+C:\Users\corbi\OneDrive - Utah Valley University\INFO 2200\Assignments\2200_SharpJ_Assignment02\2200_SharpJ_Assignment02\obj\Debug\2200_SharpJ_Assignment02_MarkupCompile.lref
