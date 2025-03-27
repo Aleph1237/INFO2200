@@ -1,0 +1,24 @@
+College,City
+Brigham Young University,Provo
+University of Utah,Salt Lake City
+Utah State University,Logan
+Southern Utah University,Cedar City
+Weber State University,Ogden
+Dixie State University,St. George
+Utah Tech University,St. George
+Utah Valley University, Orem
+Boise State University,Boise
+University of Idaho,Moscow
+Idaho State University,Pocatello
+Brigham Young University-Idaho,Rexburg
+College of Idaho,Caldwell
+Lewis-Clark State College,Lewiston
+University of Colorado Boulder,Boulder
+Colorado State University,Fort Collins
+University of Denver,Denver
+Colorado School of Mines,Golden
+University of Northern Colorado,Greeley
+Western Colorado University,Gunnison
+Metropolitan State University of Denver,Denver
+Fort Lewis College,Durango
+Adams State University,Alamosa
