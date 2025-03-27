@@ -1,0 +1,23 @@
+C:\Users\11017270\Desktop\2200_SharpJ_Participation03\2200_SharpJ_Participation03\obj\Debug\2200_SharpJ_Participation03.csproj.AssemblyReference.cache
+C:\Users\11017270\Desktop\2200_SharpJ_Participation03\2200_SharpJ_Participation03\obj\Debug\MainWindow.g.cs
+C:\Users\11017270\Desktop\2200_SharpJ_Participation03\2200_SharpJ_Participation03\obj\Debug\App.g.cs
+C:\Users\11017270\Desktop\2200_SharpJ_Participation03\2200_SharpJ_Participation03\obj\Debug\2200_SharpJ_Participation03_MarkupCompile.cache
+C:\Users\11017270\Desktop\2200_SharpJ_Participation03\2200_SharpJ_Participation03\obj\Debug\2200_SharpJ_Participation03_MarkupCompile.lref
+C:\Users\11017270\Desktop\2200_SharpJ_Participation03\2200_SharpJ_Participation03\obj\Debug\PlantDetailsWindow.g.cs
+C:\Users\10824194\OneDrive - Utah Valley University\INFO 2200\Participations\2200_SharpJ_Participation03\2200_SharpJ_Participation03\bin\Debug\2200_SharpJ_Participation03.exe.config
+C:\Users\10824194\OneDrive - Utah Valley University\INFO 2200\Participations\2200_SharpJ_Participation03\2200_SharpJ_Participation03\bin\Debug\2200_SharpJ_Participation03.exe
+C:\Users\10824194\OneDrive - Utah Valley University\INFO 2200\Participations\2200_SharpJ_Participation03\2200_SharpJ_Participation03\bin\Debug\2200_SharpJ_Participation03.pdb
+C:\Users\10824194\OneDrive - Utah Valley University\INFO 2200\Participations\2200_SharpJ_Participation03\2200_SharpJ_Participation03\obj\Debug\2200_SharpJ_Participation03.csproj.AssemblyReference.cache
+C:\Users\10824194\OneDrive - Utah Valley University\INFO 2200\Participations\2200_SharpJ_Participation03\2200_SharpJ_Participation03\obj\Debug\MainWindow.g.cs
+C:\Users\10824194\OneDrive - Utah Valley University\INFO 2200\Participations\2200_SharpJ_Participation03\2200_SharpJ_Participation03\obj\Debug\PlantDetailsWindow.g.cs
+C:\Users\10824194\OneDrive - Utah Valley University\INFO 2200\Participations\2200_SharpJ_Participation03\2200_SharpJ_Participation03\obj\Debug\App.g.cs
+C:\Users\10824194\OneDrive - Utah Valley University\INFO 2200\Participations\2200_SharpJ_Participation03\2200_SharpJ_Participation03\obj\Debug\2200_SharpJ_Participation03_MarkupCompile.cache
+C:\Users\10824194\OneDrive - Utah Valley University\INFO 2200\Participations\2200_SharpJ_Participation03\2200_SharpJ_Participation03\obj\Debug\2200_SharpJ_Participation03_MarkupCompile.lref
+C:\Users\10824194\OneDrive - Utah Valley University\INFO 2200\Participations\2200_SharpJ_Participation03\2200_SharpJ_Participation03\obj\Debug\MainWindow.baml
+C:\Users\10824194\OneDrive - Utah Valley University\INFO 2200\Participations\2200_SharpJ_Participation03\2200_SharpJ_Participation03\obj\Debug\PlantDetailsWindow.baml
+C:\Users\10824194\OneDrive - Utah Valley University\INFO 2200\Participations\2200_SharpJ_Participation03\2200_SharpJ_Participation03\obj\Debug\2200_SharpJ_Participation03.g.resources
+C:\Users\10824194\OneDrive - Utah Valley University\INFO 2200\Participations\2200_SharpJ_Participation03\2200_SharpJ_Participation03\obj\Debug\_2200_SharpJ_Participation03.Properties.Resources.resources
+C:\Users\10824194\OneDrive - Utah Valley University\INFO 2200\Participations\2200_SharpJ_Participation03\2200_SharpJ_Participation03\obj\Debug\2200_SharpJ_Participation03.csproj.GenerateResource.cache
+C:\Users\10824194\OneDrive - Utah Valley University\INFO 2200\Participations\2200_SharpJ_Participation03\2200_SharpJ_Participation03\obj\Debug\2200_SharpJ_Participation03.csproj.CoreCompileInputs.cache
+C:\Users\10824194\OneDrive - Utah Valley University\INFO 2200\Participations\2200_SharpJ_Participation03\2200_SharpJ_Participation03\obj\Debug\2200_SharpJ_Participation03.exe
+C:\Users\10824194\OneDrive - Utah Valley University\INFO 2200\Participations\2200_SharpJ_Participation03\2200_SharpJ_Participation03\obj\Debug\2200_SharpJ_Participation03.pdb
